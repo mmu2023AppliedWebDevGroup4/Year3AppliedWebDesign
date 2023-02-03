@@ -6,11 +6,10 @@
 
 ### Team members
 
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
+- Lucy Barrow, [lucy.barrow@clear.bank](lucy.barrow@clear.bank)
+- Bryan Ebune, [bryan.ebune-mbeng@stu.mmu.ac.uk](bryan.ebune-mbeng@stu.mmu.ac.uk)
+- Adele Le Moignan, [adele.le-moignan@stu.mmu.ac.uk](adele.le-moignan@stu.mmu.ac.uk)
+- Matthew Tweedy, [matthew.tweedy@stu.mmu.ac.uk](mailto:matthew.tweedy@stu.mmu.ac.uk)
 
 ## TL;DR Assessment overview
 
