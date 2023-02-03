@@ -54,4 +54,8 @@ _Corporate design considerations (logo, branding, etc.), abstract qualities (fri
 
 ## Communication strategy
 
+Primary Message: 
+To provide a one stop shop on the Manchester Fashion scene. It will answer the questions of what is on trend? Where should I shop? Are their discounts I could use? Whilst promoting local businesses and encourging footfall in the Manchester City Centre. 
+
+
 _What are the primary messages you want to convey to the target audience? What makes your guide unique? What can you do that other guides can&#39;t? Briefly explain how the new site will convey the primary messages_.
