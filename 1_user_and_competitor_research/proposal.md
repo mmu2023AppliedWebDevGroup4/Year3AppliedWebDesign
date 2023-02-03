@@ -24,10 +24,20 @@ Corporate design considerations (logo, branding, etc.), abstract qualities (frie
  
 Streetware centered with special focus to the mancunian up and coming fashion scene
 Our Kid - minimal branded logo with a bee in it
+
+
 16-30 demographic styeled language (slang/informal)
+
+
 miniaml clours used for the background ie balck, white grey yellow
+
+
 header should have a background of manchester shyline
+
+
 should include trendy pictures of styreeetware
+
+
 should be aethetically pleasing and functional 
 
 
