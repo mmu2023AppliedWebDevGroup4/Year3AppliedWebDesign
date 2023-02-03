@@ -4,7 +4,8 @@ To create a urban clothing brand website for 16-30 year olds based in Manchester
 
 The website will focus on eco friendly designs that cater to a nieche market. 
 
-**Word count** 1000 words (+/- 10%) maximum
+The website design will be clean and fresh and focus on providing a easy to use service to ensure our customers are satisfied. 
+
 
 ## Project summary
 
