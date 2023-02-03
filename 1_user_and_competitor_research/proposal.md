@@ -1,6 +1,8 @@
 # Proposal
 
-The _italic text_ below is a guide to each section. Remove this text and add your own, retaining the headings.
+To create a urban clothing brand website for 16-30 year olds based in Manchester.
+
+The website will focus on eco friendly designs that cater to a nieche market. 
 
 **Word count** 1000 words (+/- 10%) maximum
 
