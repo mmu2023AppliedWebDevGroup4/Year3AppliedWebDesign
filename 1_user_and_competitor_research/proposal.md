@@ -22,7 +22,31 @@ _List the objectives/goals discovered in the client briefing. What user question
 
 ## Primary audience(s)
 
-_A short overview of target users (reflecting your user personas and user journeys). This might include age, gender, education, occupation, income, preferred OS, browser, computer device, and internet skill level. What are the audience goals? What does the audience want and need_?
+Our target users are 16 - 30 year olds who want to stay ahead on the Manchester Fashion scene, whilst accessing exclusive drops and special discount codes. 
+
+Gender - gender fluid, a site for everyone.
+
+Age - 16 - 30 year olds. 
+
+Education - Fashion-forward thinkers, not limited to an education level. 
+
+Occupation - Everyone, this is an inclusive site and focuses on peoples love of fashion not what they do for a living. It allows all occupations to express themselves in a way that adheres to the Manchester Fashion scene. 
+
+Income - due to the discounts on the site, this website will cater to everyones income. 
+
+Preffered OS - user agnostic (any we will cater to as many as possible)
+
+Browser - Chromium, firefox and safari 
+
+Computer device - mobile phone/ smart phone primarly but will allow for a laptop view. 
+
+Internet skill level - open to all. It will be an easy to naviagte site so we do not exclude anyone. 
+
+Audiance goals - To keep up with the latest streetwear treands that suit the Manchester climate/environment. 
+
+Audiance needs - a guide to where all the shops are, the best brands, any discount codes, direct links to brand websites. A one stop shop to Manchester fashion scene and how to be apart of the latest trends. 
+
+
 
 ## Branding/perception
 
