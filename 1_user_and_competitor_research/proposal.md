@@ -14,6 +14,10 @@ _What are you trying to communicate with your site? A description of the project
 
 _List the objectives/goals discovered in the client briefing. What user questions must the site answer_?
 
+The main business objectives for this site are:
+1. To create an eco friendly Urban Clothing Brand targetted at 16-30 year olds based in Manchester 
+2. To contribute to the local area by offering a percentage of profits to 
+
 ## Primary audience(s)
 
 _A short overview of target users (reflecting your user personas and user journeys). This might include age, gender, education, occupation, income, preferred OS, browser, computer device, and internet skill level. What are the audience goals? What does the audience want and need_?
