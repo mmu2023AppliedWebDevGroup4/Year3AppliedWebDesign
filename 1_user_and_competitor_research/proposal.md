@@ -1,14 +1,20 @@
-# Proposal
+# Proposal USE THIS
 
-The _italic text_ below is a guide to each section. Remove this text and add your own, retaining the headings.
+To create a guide to the Manchester fashion scene for 16-30 year olds.  
 
-**Word count** 1000 words (+/- 10%) maximum
+The website will cater to a nieche market and show them the latest street wear trends in Manchester. 
 
-## Project summary
+The website will focus on Manchester based brands and offer a clear guide of where to shop, any deals currently on, exclusive codes to use, limited edition drops and a view on the influences on Manchester fashion. 
 
-Project is to create a website to sell clothing for 16-30 year old people.
+The website will be branded as minimalist with yellow being the accent colour. It will use classic Manchester phrases and the logo will include a bee, a symbol of Manchester. 
 
-_What are you trying to communicate with your site? A description of the project in a sentence or two. Imagine you are trying to explain what your group can do quickly to a colleague whilst in a lift_.
+
+## Project summary USE THIS
+
+This website will communicate a guide to the Manchester Fashion scene for a nieche audience of 16-30 year olds. We will research the current trends and the major influences on the Manchester Fashion scene, as well as popular brands local to the area. This will inspire our branding and the content of the webpage. 
+
+The website will offer a variety of guides to how to dress to suit the Manchester scene. It will be a helpful site to anyone visting the area or anyone who wants to stay current and ahead of the trends. 
+
 
 ## Business objectives/goals
 
