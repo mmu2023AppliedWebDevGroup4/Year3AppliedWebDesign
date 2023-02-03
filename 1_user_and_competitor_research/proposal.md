@@ -20,7 +20,18 @@ _A short overview of target users (reflecting your user personas and user journe
 
 ## Branding/perception
 
-_Corporate design considerations (logo, branding, etc.), abstract qualities (friendly, professional, approachable, etc.), personality (that the site reflects or embodies), key visual attributes (colour, graphic style, etc.), language (professional, informal or instructional, etc.). How will the site deliver the desired perception_?
+Corporate design considerations (logo, branding, etc.), abstract qualities (friendly, professional, approachable, etc.),key visual attributes (colour, graphic style personality (that the site reflects or embodies), language (professional, informal or instructional, etc.). How will the site deliver the desired perception_?
+ 
+Streetware centered with special focus to the mancunian up and coming fashion scene
+Our Kid - minimal branded logo with a bee in it
+16-30 demographic styeled language (slang/informal)
+miniaml clours used for the background ie balck, white grey yellow
+header should have a background of manchester shyline
+should include trendy pictures of styreeetware
+should be aethetically pleasing and functional 
+
+
+
 
 ## Communication strategy
 
