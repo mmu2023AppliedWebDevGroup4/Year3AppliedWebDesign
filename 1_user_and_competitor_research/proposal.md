@@ -1,17 +1,20 @@
-# Proposal
+# Proposal USE THIS
 
-To create a urban clothing brand website for 16-30 year olds based in Manchester.
+To create a guide to the Manchester fashion scene for 16-30 year olds.  
 
-The website will focus on eco friendly designs that cater to a nieche market. 
+The website will cater to a nieche market and show them the latest street wear trends in Manchester. 
 
-The website design will be clean and fresh and focus on providing a easy to use service to ensure our customers are satisfied. 
+The website will focus on Manchester based brands and offer a clear guide of where to shop, any deals currently on, exclusive codes to use, limited edition drops and a view on the influences on Manchester fashion. 
+
+The website will be branded as minimalist with yellow being the accent colour. It will use classic Manchester phrases and the logo will include a bee, a symbol of Manchester. 
 
 
-## Project summary
+## Project summary USE THIS
 
-Project is to create a website to sell clothing for 16-30 year old people.
+This website will communicate a guide to the Manchester Fashion scene for a nieche audience of 16-30 year olds. We will research the current trends and the major influences on the Manchester Fashion scene, as well as popular brands local to the area. This will inspire our branding and the content of the webpage. 
 
-_What are you trying to communicate with your site? A description of the project in a sentence or two. Imagine you are trying to explain what your group can do quickly to a colleague whilst in a lift_.
+The website will offer a variety of guides to how to dress to suit the Manchester scene. It will be a helpful site to anyone visting the area or anyone who wants to stay current and ahead of the trends. 
+
 
 ## Business objectives/goals
 
