@@ -6,6 +6,8 @@ The _italic text_ below is a guide to each section. Remove this text and add you
 
 ## Project summary
 
+Project is to create a website to sell clothing for 16-30 year old people.
+
 _What are you trying to communicate with your site? A description of the project in a sentence or two. Imagine you are trying to explain what your group can do quickly to a colleague whilst in a lift_.
 
 ## Business objectives/goals
