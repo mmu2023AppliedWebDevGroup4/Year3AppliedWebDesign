@@ -16,7 +16,7 @@ _List the objectives/goals discovered in the client briefing. What user question
 
 The main business objectives for this site are:
 1. To create an eco friendly Urban Clothing Brand targetted at 16-30 year olds based in Manchester 
-2. To contribute to the local area by offering a percentage of profits to 
+2. To contribute to the local area by offering a percentage of profits to to local charities and 
 
 ## Primary audience(s)
 
