@@ -8,26 +8,27 @@
 
 ## Profiles
 
-- Name
+- Name:Beryl Burns
 - 
-- Beryl Burns
-- 
-- Age
-- 50
+- Age: 50
 
-- Occupation
-Lecturer
+- Occupation: University Lecturer
 
 
-- Description or quote
--
+- Description or quote:-  Full time worker at Manchester metropoloitan university, has great relationship with students and is usually willing to help them settle into the university. She is a local and has lived in Mnachester for most of her life, and has always had anm interest in fashion and keeping up with trends and her job allows her to shop frequently. 
+
+
 - Likes
 -Holidays, music, brunch, spa days
 
 - Dislikes
 Clubbing, alcohol, late nights 
 
-- Needs and goals
+- Needs and goals:
+- To help students integrate into the local fashion community.
+- To encourage creativity with amongst students
+- To prove that lecturers are approachable and can be helpful towards issues that are not always academic related
+
 -
 ---
 
