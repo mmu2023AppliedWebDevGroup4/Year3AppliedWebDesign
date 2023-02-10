@@ -57,5 +57,7 @@ _Corporate design considerations (logo, branding, etc.), abstract qualities (fri
 Primary Message: 
 To provide a one stop shop on the Manchester Fashion scene. It will answer the questions of what is on trend? Where should I shop? Are their discounts I could use? Whilst promoting local businesses and encourging footfall in the Manchester City Centre. 
 
+We want to communicate that this is a safe space for any new or returning students who want to make a great impression. It caters to peoples desire to be socially up to date and feel comfortable in their environment. It breaks inital barriers and tackles new students nervousness to attend a city that is so rich in culture. This is what puts our wedbiste apart from others. It offers a specific guides to students and caters to their feelings of nervousness and being shy on their first day in a new city. This will set us apart from other websites, which do not offer that personal touch. 
+
 
 _What are the primary messages you want to convey to the target audience? What makes your guide unique? What can you do that other guides can&#39;t? Briefly explain how the new site will convey the primary messages_.
