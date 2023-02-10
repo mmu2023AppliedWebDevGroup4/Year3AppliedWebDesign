@@ -1,4 +1,4 @@
-# Proposal USE THIS
+# Proposal 
 
 To create a guide to the Manchester fashion scene for students attending Manchester Met Uni. It offers them a one stop shop of what is considered on trend. It will ease the nerves of any new students who are not from the area but are wishing to make a great first impression.  
 
@@ -9,7 +9,7 @@ The website will focus on Manchester based brands and offer a clear guide of whe
 The website will be branded as minimalist with yellow being the accent colour. It will use classic Manchester phrases and the logo will include a bee, a symbol of Manchester. 
 
 
-## Project summary USE THIS
+## Project summary 
 
 This website will communicate a guide to the Manchester Fashion scene for a niche audience of Manchester Met Uni students aged 18+. We will research the current trends and the major influences on the Manchester Fashion scene, as well as popular brands local to the area. This will inspire our branding and the content of the webpage. 
 
