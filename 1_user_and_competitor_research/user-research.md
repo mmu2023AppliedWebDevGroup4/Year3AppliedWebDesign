@@ -23,7 +23,7 @@ Lecturer at Manchester Metropoltian uni
 
 - Description or quote
 
-A young male who has recently moved to Manchester. Is intrested in the cities culture and would love to learn more from his peers abput what is considered fashionable for this city. Raheem has admitted he too would benefit from this site as he to would utilise the discount codes and fashion advice provided on the site. 
+A young male who has recently moved to Manchester. Is intrested in the cities culture and would love to learn more from his peers about what is considered fashionable for this city. Raheem has admitted he too would benefit from this site as he to would utilise the discount codes and fashion advice.  
 
 - Likes
 
