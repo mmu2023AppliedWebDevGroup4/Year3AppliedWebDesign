@@ -8,25 +8,49 @@
 
 ## Profiles
 
+
 - Name
-Lucy Barrow
-Bryan 
-Adele Le Moignan
-Matt Tweedy
 
 - Age
 
-- Occupation
-Part Time Students
-
-
-- Description or quote
+- Description or Quote
 
 - Likes
 
 - Dislikes
 
-- Needs and goals
+- Needs and Goals
+
+
+- Name
+
+- Age
+
+- Description or Quote
+
+- Likes
+
+- Dislikes
+
+- Needs and Goals
+
+
+- Name
+
+- Age
+
+- Description or Quote
+
+- Likes
+
+- Dislikes
+
+- Needs and Goals
+
+
+
+
+
 
 ---
 
