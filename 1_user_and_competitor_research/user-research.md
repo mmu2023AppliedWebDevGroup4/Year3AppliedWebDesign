@@ -19,7 +19,9 @@ Lecturer at Manchester Metropoltian uni
 
 A young male who has recently moved to Manchester. Is intrested in the cities culture and would love to learn more from his peers about what is considered fashionable for this city. Raheem has admitted he too would benefit from this site as he to would utilise the discount codes and fashion advice.  
 
+
 - Likes
+-Holidays, music, brunch, spa days
 
 Holidays
 
@@ -29,11 +31,17 @@ The social scene
 
 
 - Dislikes
+
 The traffic 
 
 The Manchester Weather 
 
-- Needs and goals
+
+- Needs and goals:
+- To help students integrate into the local fashion community.
+- To encourage creativity amongst students
+- To prove that lecturers are approachable and can be helpful towards issues that are not always academic related
+
 
 Raheem believes the website would be ideal for new students who have never vistited the city. It breaks the inital barriers and gives them an insight into what is current and trendy within the vibrant city. It reduces any nerves felt by students who would like to make a good first impression amoungst their peers and gives them an insight into the coolest places to shop and visit. 
 ---
@@ -203,5 +211,42 @@ Website not functioning properlly (Faulty js etc.), Fashion Items being mis-repr
 Ability to stay up to date with the latest fashions - weekly/ monthly updates
 Where the Cheapest place is to but the item
 Webform for a newsletter
+
+## Profiles - Profile 10
+
+- Name:Beryl Burns
+- 
+- Age: 50
+
+- Occupation: University Lecturer
+
+
+- Description or quote:-  Full time worker at Manchester metropoloitan university, has great relationship with students and is usually willing to help them settle into the university. She is a local and has lived in Mnachester for most of her life, and has always had anm interest in fashion and keeping up with trends and her job allows her to shop frequently. 
+
+- Dislikes: Clubbing, alcohol, late nights 
+
+-
+---
+
+##Profiles - Profile 11
+
+- Name: Sam Harding
+
+- Age: 21
+
+- Occupation: Degree Appentice
+
+- Description or quote: Sam is a degree apprentice, which means he works 4 days a wek and is at uni once a week.He's quite sporty and keeps up with trends. He's a local and is looking to get more into fashion and explore the local fashion scene.
+
+- Likes
+- football,rugby, music, MMA, nights out
+
+- Dislikes
+- art galeries, Bold coloured, formal clothing 
+
+- Needs and goals: to find nice clothing to add to his collection 
+
+
+
 <!--This can be deleted prior to submission -->
 
