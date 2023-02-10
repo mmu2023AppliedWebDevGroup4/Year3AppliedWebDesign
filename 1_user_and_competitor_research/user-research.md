@@ -32,19 +32,21 @@ Clubbing, alcohol, late nights
 -
 ---
 
-- Name: Max Harding
+- Name: Sam Harding
 
 - Age: 21
 
 - Occupation: Degree Appentice
 
-- Description or quote:
+- Description or quote: Sam is a degree apprentice, which means he works 4 days a wek and is at uni once a week.He's quite sporty and keeps up with trends. He's a local and is looking to get more into fashion and explore the local fashion scene.
 
 - Likes
+- football,rugby, music, MMA, nights out
 
 - Dislikes
+- art galeries, Bold coloured, formal clothing 
 
-- Needs and goals
+- Needs and goals: to find nice clothing to add to his collection 
 
 <!--This can be deleted prior to submission -->
 
