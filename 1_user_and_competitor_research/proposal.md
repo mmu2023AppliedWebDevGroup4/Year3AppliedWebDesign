@@ -18,11 +18,11 @@ The website will offer a variety of guides to how to dress to suit the Mancheste
 
 ## Business objectives/goals
 
-The main objectives/ goals for this Projects:
+The main objectives/ goals for this Webpage are:
 
 1- To create an interactive fashion guide aimed at students who are not local to the Manchester Area and promote inclusivity 
 
-2- To create an eco friendly Urban Clothing Brand 
+2- To support local businesses in Manchester offering niche fashion trends 
 
 3- To contribute to the local area by offering a percentage of profits to local eco friendly charities
 
