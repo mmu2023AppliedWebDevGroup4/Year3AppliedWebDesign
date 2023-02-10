@@ -11,15 +11,28 @@
 
 - Name
 
+Jack O'Connell
+
 - Age
+
+22
 
 - Description or Quote
 
+Young Male attending MMU for Sports Science. Plays football for Congleton Town
+
 - Likes
+
+Drinking, Football, Manchester United, 
+
 
 - Dislikes
 
+Rugby
+
 - Needs and Goals
+
+Ability to control Work(University)/ Football/ Life balance
 
 
 - Name
