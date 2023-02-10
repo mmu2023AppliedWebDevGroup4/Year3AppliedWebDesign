@@ -69,7 +69,7 @@ Our Kid - minimal branded logo with a bee in it
 16-30 demographic styeled language (slang/informal)
 
 
-miniaml clours used for the background ie balck, white grey yellow
+miniaml clours used for the background ie black, white, grey, yellow
 
 
 header should have a background of manchester skyline
