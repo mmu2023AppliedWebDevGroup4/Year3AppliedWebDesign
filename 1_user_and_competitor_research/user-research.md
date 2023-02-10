@@ -32,19 +32,13 @@ Clubbing, alcohol, late nights
 -
 ---
 
-- Name
-Lucy Barrow
-Bryan 
-Adele Le Moignan
-Matt Tweedy
+- Name: Max Harding
 
-- Age
+- Age: 21
 
-- Occupation
-Part Time Students
+- Occupation: Degree Appentice
 
-
-- Description or quote
+- Description or quote:
 
 - Likes
 
