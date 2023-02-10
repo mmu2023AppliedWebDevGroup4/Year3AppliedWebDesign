@@ -21,7 +21,7 @@
 - Dislikes: Becca dislikes animal cruelty, clubbing and insects 
 
 - Needs and goals: Becca needs the guide to MMU fashion to help get involved with other students at the university and feel more included in events that may take place 
-- 
+
 ## Profiles 2
 
 - Name: Chloe Beehart 
@@ -54,10 +54,3 @@
 
 - Needs and goals: The MMU guide to students would help Ihsan to help students who feel self- concious, and promote individuality. The guide would help these students to express themselves and could be supported by lecturers. 
 
-
-
-<!--This can be deleted prior to submission -->
-
-Repeat the above profiles as needed. Each team member should add 2 or 3 to ensure you get a wide range of opinion.
-
-_Some teams have also undertaken quick surveys among friends to get some instant feedback on the type of guide you intend to create_.
