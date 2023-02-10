@@ -9,6 +9,29 @@
 ## Profiles
 
 - Name
+- 
+- Beryl Burns
+- 
+- Age
+- 50
+
+- Occupation
+Lecturer
+
+
+- Description or quote
+-
+- Likes
+-Holidays, music, brunch, spa days
+
+- Dislikes
+Clubbing, alcohol, late nights 
+
+- Needs and goals
+-
+---
+
+- Name
 Lucy Barrow
 Bryan 
 Adele Le Moignan
@@ -27,8 +50,6 @@ Part Time Students
 - Dislikes
 
 - Needs and goals
-
----
 
 <!--This can be deleted prior to submission -->
 
