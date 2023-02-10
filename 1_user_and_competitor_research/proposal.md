@@ -1,24 +1,30 @@
-# Proposal USE THIS
+# Proposal 
 
-To create a guide to the Manchester fashion scene for 16-30 year olds.  
+To create a guide to the Manchester fashion scene for students attending Manchester Met Uni. It offers them a one stop shop of what is considered on trend. It will ease the nerves of any new students who are not from the area but are wishing to make a great first impression.  
 
-The website will cater to a nieche market and show them the latest street wear trends in Manchester. 
+The website will cater to a niche market and show them the latest street wear trends in Manchester. 
 
 The website will focus on Manchester based brands and offer a clear guide of where to shop, any deals currently on, exclusive codes to use, limited edition drops and a view on the influences on Manchester fashion. 
 
 The website will be branded as minimalist with yellow being the accent colour. It will use classic Manchester phrases and the logo will include a bee, a symbol of Manchester. 
 
 
-## Project summary USE THIS
+## Project summary 
 
-This website will communicate a guide to the Manchester Fashion scene for a nieche audience of 16-30 year olds. We will research the current trends and the major influences on the Manchester Fashion scene, as well as popular brands local to the area. This will inspire our branding and the content of the webpage. 
+This website will communicate a guide to the Manchester Fashion scene for a niche audience of Manchester Met Uni students aged 18+. We will research the current trends and the major influences on the Manchester Fashion scene, as well as popular brands local to the area. This will inspire our branding and the content of the webpage. 
 
-The website will offer a variety of guides to how to dress to suit the Manchester scene. It will be a helpful site to anyone visting the area or anyone who wants to stay current and ahead of the trends. 
+The website will offer a variety of guides to how to dress to suit the Manchester scene. It will be a helpful site to any new student who has never visited the city or anyone who wants to stay current and ahead of the trends. 
 
 
 ## Business objectives/goals
 
-_List the objectives/goals discovered in the client briefing. What user questions must the site answer_?
+The main objectives/ goals for this Webpage are:
+
+1- To create an interactive fashion guide aimed at students who are not local to the Manchester Area and promote inclusivity 
+
+2- To support local businesses in Manchester offering niche fashion trends 
+
+3- To contribute to the local area by offering a percentage of profits to local eco friendly charities
 
 ## Primary audience(s)
 
@@ -50,7 +56,28 @@ Audiance needs - a guide to where all the shops are, the best brands, any discou
 
 ## Branding/perception
 
-_Corporate design considerations (logo, branding, etc.), abstract qualities (friendly, professional, approachable, etc.), personality (that the site reflects or embodies), key visual attributes (colour, graphic style, etc.), language (professional, informal or instructional, etc.). How will the site deliver the desired perception_?
+Corporate design considerations (logo, branding, etc.), abstract qualities (friendly, professional, approachable, etc.),key visual attributes (colour, graphic style personality (that the site reflects or embodies), language (professional, informal or instructional, etc.). How will the site deliver the desired perception_?
+ 
+Streetware centered with special focus to the mancunian up and coming fashion scene
+Our Kid - minimal branded logo with a bee in it
+
+
+16-30 demographic styeled language (slang/informal)
+
+
+miniaml clours used for the background ie balck, white grey yellow
+
+
+header should have a background of manchester shyline
+
+
+should include trendy pictures of styreeetware
+
+
+should be aethetically pleasing and functional 
+
+
+
 
 ## Communication strategy
 
