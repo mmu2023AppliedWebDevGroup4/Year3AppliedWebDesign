@@ -22,11 +22,11 @@ _List the objectives/goals discovered in the client briefing. What user question
 
 ## Primary audience(s)
 
-Our target users are 16 - 30 year olds who want to stay ahead on the Manchester Fashion scene, whilst accessing exclusive drops and special discount codes. 
+Our target users are Manchester Met Students who want to stay ahead on the Manchester Fashion scene, whilst accessing exclusive drops and special discount codes. 
 
 Gender - gender fluid, a site for everyone.
 
-Age - 16 - 30 year olds. 
+Age - Manchester Met students 18+ 
 
 Education - Fashion-forward thinkers, not limited to an education level. 
 
