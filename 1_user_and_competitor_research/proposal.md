@@ -11,7 +11,7 @@ The website will be branded as minimalist with yellow being the accent colour. I
 
 ## Project summary USE THIS
 
-This website will communicate a guide to the Manchester Fashion scene for a niche audience of 16-30 year olds. We will research the current trends and the major influences on the Manchester Fashion scene, as well as popular brands local to the area. This will inspire our branding and the content of the webpage. 
+This website will communicate a guide to the Manchester Fashion scene for a niche audience of Manchester Met Uni students aged 18+. We will research the current trends and the major influences on the Manchester Fashion scene, as well as popular brands local to the area. This will inspire our branding and the content of the webpage. 
 
 The website will offer a variety of guides to how to dress to suit the Manchester scene. It will be a helpful site to anyone visting the area or anyone who wants to stay current and ahead of the trends. 
 
