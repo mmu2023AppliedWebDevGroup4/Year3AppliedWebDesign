@@ -26,7 +26,7 @@ Clubbing, alcohol, late nights
 
 - Needs and goals:
 - To help students integrate into the local fashion community.
-- To encourage creativity with amongst students
+- To encourage creativity amongst students
 - To prove that lecturers are approachable and can be helpful towards issues that are not always academic related
 
 -
