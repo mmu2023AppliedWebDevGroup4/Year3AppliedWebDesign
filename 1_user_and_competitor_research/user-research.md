@@ -14,13 +14,13 @@
 
 - Occupation: Becca is a degree apprentice who has day release to university to study IT Consultancy. She works full time at an insurance company based 30 minutes from Manchester. 
 
-- Description or quote: Becca is a young female who commutes to Manchester weekly and often feels excluded from social situtations due to not knowing 
+- Description or quote: Becca is a young female who commutes to Manchester weekly and often feels excluded from social situtations due to only attending university one day a week. Becca is very fashion focused and likes an outfit that is smart and confortable due to her corporate working environment. 
 
 - Likes: Becca is very sporty and plays lacrosse on the weekend. She is very career focused and often works overtime at work which is desk based, so she loves fashionable and comfy clothing. She also volunteers at a zero waste charity to help reduce the amount of plastics used in everyday life. 
 
-- Dislikes: Becca dislikes animal cruelty, clubbing and  
+- Dislikes: Becca dislikes animal cruelty, clubbing and insects 
 
-- Needs and goals
+- Needs and goals: Becca needs the guide to MMU fashion to help get involved with other students at the university and feel more included in events that may take place 
 - 
 ## Profiles 2
 
