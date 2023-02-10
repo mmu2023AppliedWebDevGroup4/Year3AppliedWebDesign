@@ -77,6 +77,7 @@ Being lost
 
 
 - Needs and goals
+
 Geroge believes this website could be the answer to his needs as long as it includes relevant discount codes to different places in the city and a detailed breakdown of the different fashion genres commonly seen in the city. He expects a clean website, that is user friendly and is branded to give a clear impression that this website in Manchester based. He wants it to be patriotic to the city and taliored for students like him.
 
 
