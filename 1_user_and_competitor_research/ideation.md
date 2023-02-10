@@ -18,7 +18,7 @@ Put your media in the `sp1-media` folder.
 
 Embed the images in the markdown file using either of these methods.
 
-<img src="sp1-media/brainstormonbranding.JPEG" alt="brainstormonbranding" title="brainstormonbranding">
+<img src="sp1-media/Brianstormonbranding.jpg" alt="Brainstormon Branding Mind Map" title="Brainstormon branding">
 
 ```
 <img src="sp1-media/octocat.png" alt="Octocat" title="something">
