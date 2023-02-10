@@ -30,13 +30,13 @@
 
 - Occupation: Chloe is a full time student
 
-- Description or quote
+- Description or quote: Chloe is a full time student who attends university at least 3 times a week and has loads of friends. She is always on social media checking for the latest celebrity photos of fashion and trying to replicate them at an afforbale price. 
 
-- Likes: 
+- Likes: social media, parties and image 
 
-- Dislikes
+- Dislikes: dirt, spiders and mess/ clutter 
 
-- Needs and goals
+- Needs and goals: She likes to set the trends and wants to be up to date with all of the latest looks. The MMU guide to fashion would be a place for her to gather ideas and stay up to date with weekly style changes. 
 
 ## Profiles 3
 
@@ -46,13 +46,13 @@
 
 - Occupation: Lecturer
 
-- Description or quote
+- Description or quote: Dr Ihsan is a full- time lecturuer who see multiple students every week. He sees alot of varied styles and wants students to express themselves through fashion, and feel comfortable wearing whatever they like at university, and whatever makes them feel comfortable. He is an advocate for confidence. 
 
-- Likes
+- Likes: Reading, podcasts, and long walks
 
-- Dislikes
+- Dislikes: raves and bullying 
 
-- Needs and goals
+- Needs and goals: The MMU guide to students would help Ihsan to help students who feel self- concious, and promote individuality. The guide would help these students to express themselves and could be supported by lecturers. 
 
 
 
