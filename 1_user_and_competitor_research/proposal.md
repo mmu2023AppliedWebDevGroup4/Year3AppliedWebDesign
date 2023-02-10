@@ -18,9 +18,10 @@ The website will offer a variety of guides to how to dress to suit the Mancheste
 
 ## Business objectives/goals
 
-_List the objectives/goals discovered in the client briefing. What user questions must the site answer_?
-The main objectives/ goals for this Projecta re:
+The main objectives/ goals for this Projects:
 1- To create an interactive fashion guide aimed at students who are not local to the Manchester Area and promote inclusivity 
+2- To create an eco friendly Urban Clothing Brand 
+3- To contribute to the local area by offering a percentage of profits to local eco friendly charities
 
 ## Primary audience(s)
 
