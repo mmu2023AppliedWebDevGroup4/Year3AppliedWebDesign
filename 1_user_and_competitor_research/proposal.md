@@ -1,6 +1,6 @@
 # Proposal USE THIS
 
-To create a guide to the Manchester fashion scene for 16-30 year olds.  
+To create a guide to the Manchester fashion scene for students attending Manchester Met Uni. It offers them a one stop shop of what is considered on trend. It will ease the nerves of any new students who are not from the area but are wishing to make a great first impression.  
 
 The website will cater to a niche market and show them the latest street wear trends in Manchester. 
 
