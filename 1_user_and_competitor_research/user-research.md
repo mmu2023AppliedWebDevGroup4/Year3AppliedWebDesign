@@ -6,19 +6,45 @@
 
 ---
 
-## Profiles
+## Profiles 1
 
-- Name
-Lucy Barrow
-Bryan 
-Adele Le Moignan
-Matt Tweedy
+- Name: Becca Grant  
 
-- Age
+- Age: 21
 
-- Occupation
-Part Time Students
+- Occupation: Becca is a degree apprentice who has day release to university to study IT Consultancy. She works full time at an insurance company based 30 minutes from Manchester. 
 
+- Description or quote: Becca is a young female who commutes to Manchester weekly and often feels excluded from social situtations due to not knowing 
+
+- Likes: Becca is very sporty and plays lacrosse on the weekend. She is very career focused and often works overtime at work which is desk based, so she loves fashionable and comfy clothing. She also volunteers at a zero waste charity to help reduce the amount of plastics used in everyday life. 
+
+- Dislikes: Becca dislikes animal cruelty, clubbing and  
+
+- Needs and goals
+- 
+## Profiles 2
+
+- Name: Chloe Beehart 
+
+- Age: 22
+
+- Occupation: Chloe is a full time student
+
+- Description or quote
+
+- Likes: 
+
+- Dislikes
+
+- Needs and goals
+
+## Profiles 3
+
+- Name: Dr Ihsan Faraj 
+
+- Age: 40
+
+- Occupation: Lecturer
 
 - Description or quote
 
@@ -28,7 +54,7 @@ Part Time Students
 
 - Needs and goals
 
----
+
 
 <!--This can be deleted prior to submission -->
 
