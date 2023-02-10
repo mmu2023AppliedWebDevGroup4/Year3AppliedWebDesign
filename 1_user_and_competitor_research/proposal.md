@@ -72,10 +72,10 @@ Our Kid - minimal branded logo with a bee in it
 miniaml clours used for the background ie balck, white grey yellow
 
 
-header should have a background of manchester shyline
+header should have a background of manchester skyline
 
 
-should include trendy pictures of styreeetware
+should include trendy pictures of street wear
 
 
 should be aethetically pleasing and functional 
