@@ -5,74 +5,53 @@
 **Word count** provide a summary (300 word maximum) of your findings.
 
 ---
-- Name
+## Profiles - Profile 1
 
-Raheem Sarwar (Lecturer at Manchester Metroploitan Uni) 
+- Name: Raheem Sarwar (Lecturer at Manchester Metroploitan Uni) 
 
-- Age 
+- Age: Late 20's 
 
-Late 20's 
-
-- Occupation
-
+- Occupation  
 Lecturer at Manchester Metropoltian uni
 
-A young male who has recently moved to Manchester. Is intrested in the cities culture and would love to learn more from his peers about what is considered fashionable for this city. Raheem has admitted he too would benefit from this site as he to would utilise the discount codes and fashion advice.  
+- Description or quote: A young male who has recently moved to Manchester. Is intrested in the cities culture and would love to learn more from his peers about what is considered fashionable for this city. Raheem has admitted he too would benefit from this site as he to would utilise the discount codes and fashion advice.  
 
-- Likes
 
-Holidays
+- Likes: Holidays, music, brunch, spa days
 
-Manchester united 
-
+Holidays  
+Manchester united  
 The social scene 
 
 
-- Dislikes
-The traffic 
+- Dislikes: The traffic, The Manchester Weather 
 
-The Manchester Weather 
 
-- Needs and goals
+- Needs and goals:
+* To help students integrate into the local fashion community.
+* To encourage creativity amongst students
+* To prove that lecturers are approachable and can be helpful towards issues that are not always academic related
+
 
 Raheem believes the website would be ideal for new students who have never vistited the city. It breaks the inital barriers and gives them an insight into what is current and trendy within the vibrant city. It reduces any nerves felt by students who would like to make a good first impression amoungst their peers and gives them an insight into the coolest places to shop and visit. 
+
 ---
 
 ## Profiles - profile 2
 
-- Name
+- Name: George Scott 
 
-George Scott 
+- Age: 21
 
-- Age 
+- Occupation: Apprentice who attends Manchester Met uni
 
-21
+- Description or quote: A young male who has attended Manchester Met for 3 years. He is a confident individual who would appreciate a website that offers discounts for all the coolest shops in Manchester. He is looking for a site that not only offers these discounts but gives guidance on the different genre's of fashion seen at Manchester Met. He is looking to expand his knowledge on the city and learn about the up and coming must visit shops in the city. 
 
-- Occupation
-Apprentice who attends Manchester Met uni
+- Likes: Cars, Manchester United, His Cat
 
-- Description or quote
+- Dislikes: Pollution, Being lost
 
-A young male who has attended Manchester Met for 3 years. He is a confident individual who would appreciate a website that offers discounts for all the coolest shops in Manchester. He is looking for a site that not only offers these discounts but gives guidance on the different genre's of fashion seen at Manchester Met. He is looking to expand his knowledge on the city and learn about the up and coming must visit shops in the city. 
-
-- Likes
-
-Cars
-
-Manchester united 
-
-His Cat
-
-- Dislikes
-
-Pollution 
-
-Being lost
-
-
-- Needs and goals
-
-Geroge believes this website could be the answer to his needs as long as it includes relevant discount codes to different places in the city and a detailed breakdown of the different fashion genres commonly seen in the city. He expects a clean website, that is user friendly and is branded to give a clear impression that this website in Manchester based. He wants it to be patriotic to the city and taliored for students like him.
+- Needs and goals: George believes this website could be the answer to his needs as long as it includes relevant discount codes to different places in the city and a detailed breakdown of the different fashion genres commonly seen in the city. He expects a clean website, that is user friendly and is branded to give a clear impression that this website in Manchester based. He wants it to be patriotic to the city and taliored for students like him.
 
 
 ## Profiles 4
@@ -127,81 +106,87 @@ Geroge believes this website could be the answer to his needs as long as it incl
 ## Profiles - profile 7
 
 
-- Name
+- Name: Jack McConnell
 
-Jack McConnell
+- Age: 22
 
-- Age
+- Description or Quote: Young Male attending MMU for Sports Science. Played football for Congleton Town. Works night shifts in his local sports club
 
-22
+- Likes: Drinking, Football, Manchester United
 
-- Description or Quote
+- Dislikes: Rugby
 
-Young Male attending MMU for Sports Science. Played football for Congleton Town. Works night shifts in his local sports club
-
-- Likes
-
-Drinking, Football, Manchester United
-
-- Dislikes
-
-Rugby
-
-- Needs and Goals
-
-Ability to control Work(University)/ Football/ Life balance
+- Needs and Goals: Ability to control Work(University)/ Football/ Life balance
 
 
 ## Profiles - Profile 8
 
-- Name
+- Name: Laura Brown
 
-Laura Brown
+- Age: 25
 
-- Age
+- Description or Quote: Training to be a UI/UX designer, supporting small community projects, single mother with one daughter
 
-25
+- Likes: Drum and Bass, Motorbikes, Plans
 
-- Description or Quote
-
-Training to be a UI/UX designer, supporting small community projects, single mother with one daughter
-
-- Likes
-
-Drum and Bass, Motorbikes, Plans
-
-- Dislikes
-
-Wasted time
+- Dislikes: Wasted time
 
 - Needs and Goals
-
-Efficient use of time
-Keep up to date
-Cookie Management (Consent etc.)
+* Efficient use of time
+* Keep up to date
+* Cookie Management (Consent etc.)
 
 ## Profiles - Profile 9
 
-- Name
+- Name: Jack Trees
 
-Jack Trees
+- Age: 26
 
-26
+- Description or Quote: Trainign Software Developer to support multiple new fangled technolgy. Plays American Football in his spare time
 
-- Description or Quote
+- Likes: Colour Red is good, Website has Dark Mode options. Likes staying up to date on the latest styles, trying clothes on
 
-Trainign Software Developer to support multiple new fangled technolgy. Plays American Football in his spare time
-
-- Likes
-
-Colour Red is good, Website has Dark Mode options. Likes staying up to date on the latest styles, trying clothes on
-
-Website not functioning properlly (Faulty js etc.), Fashion Items being mis-representated
+- Dislikes: Website not functioning properlly (Faulty js etc.), Fashion Items being mis-representated
 
 - Needs and Goals
+* Ability to stay up to date with the latest fashions - weekly/ monthly updates
+* Where the Cheapest place is to but the item
+* Webform for a newsletter
 
-Ability to stay up to date with the latest fashions - weekly/ monthly updates
-Where the Cheapest place is to but the item
-Webform for a newsletter
+## Profiles - Profile 10
+
+- Name:Beryl Burns
+
+- Age: 50
+
+- Occupation: University Lecturer
+
+- Description or quote:-  Full time worker at Manchester metropoloitan university, has great relationship with students and is usually willing to help them settle into the university. She is a local and has lived in Mnachester for most of her life, and has always had anm interest in fashion and keeping up with trends and her job allows her to shop frequently. 
+
+- Dislikes: Clubbing, alcohol, late nights 
+
+-
+---
+
+## Profiles - Profile 11
+
+- Name: Sam Harding
+
+- Age: 21
+
+- Occupation: Degree Appentice
+
+- Description or quote: Sam is a degree apprentice, which means he works 4 days a wek and is at uni once a week.He's quite sporty and keeps up with trends. He's a local and is looking to get more into fashion and explore the local fashion scene.
+
+- Likes
+- football,rugby, music, MMA, nights out
+
+- Dislikes
+- art galeries, Bold coloured, formal clothing 
+
+- Needs and goals: to find nice clothing to add to his collection 
+
+
+
 <!--This can be deleted prior to submission -->
 
