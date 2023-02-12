@@ -20,6 +20,12 @@ Embed the images in the markdown file using either of these methods.
 
 <img src="sp1-media/Brianstormonbranding.jpg" alt="Brainstormon Branding Mind Map" title="Brainstormon branding">
 
+<img src="sp1-media/NameIdeas.jpg" alt="Name Ideas" title="Name Ideas">
+
+<img src="sp1-media/ProblemStatement.jpg" alt="Problem Statement" title="Problem Statement">
+
+<img src="sp1-media/WebsiteSpecific.jpg" alt="Website Specific" title="Website">
+
 ```
 <img src="sp1-media/octocat.png" alt="Octocat" title="something">
 ```
