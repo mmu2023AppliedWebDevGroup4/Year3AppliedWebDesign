@@ -15,22 +15,14 @@ Lecturer at Manchester Metropoltian uni
 
 - Description or quote: A young male who has recently moved to Manchester. Is intrested in the cities culture and would love to learn more from his peers about what is considered fashionable for this city. Raheem has admitted he too would benefit from this site as he to would utilise the discount codes and fashion advice.  
 
-
 - Likes: Holidays, music, brunch, spa days
 
-Holidays  
-Manchester united  
-The social scene 
-
-
 - Dislikes: The traffic, The Manchester Weather 
-
 
 - Needs and goals:
 * To help students integrate into the local fashion community.
 * To encourage creativity amongst students
 * To prove that lecturers are approachable and can be helpful towards issues that are not always academic related
-
 
 Raheem believes the website would be ideal for new students who have never vistited the city. It breaks the inital barriers and gives them an insight into what is current and trendy within the vibrant city. It reduces any nerves felt by students who would like to make a good first impression amoungst their peers and gives them an insight into the coolest places to shop and visit. 
 
@@ -175,15 +167,12 @@ Raheem believes the website would be ideal for new students who have never visti
 
 - Description or quote: Sam is a degree apprentice, which means he works 4 days a wek and is at uni once a week.He's quite sporty and keeps up with trends. He's a local and is looking to get more into fashion and explore the local fashion scene.
 
-- Likes
-- football,rugby, music, MMA, nights out
+- Likes: football,rugby, music, MMA, nights out
 
-- Dislikes
-- art galeries, Bold coloured, formal clothing 
+- Dislikes: art galeries, Bold coloured, formal clothing 
 
 - Needs and goals: to find nice clothing to add to his collection 
 
 
 
-<!--This can be deleted prior to submission -->
 
