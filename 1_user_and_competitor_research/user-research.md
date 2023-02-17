@@ -5,7 +5,7 @@
 **Word count** provide a summary (300 word maximum) of your findings.
 
 ---
-## Profiles - Profile 1
+## Profile 1
 
 - Name: Raheem Sarwar (Lecturer at Manchester Metroploitan Uni) 
 
@@ -37,7 +37,7 @@ Raheem believes the website would be ideal for new students who have never visti
 
 ---
 
-## Profiles - profile 2
+## Profile 2
 
 - Name: George Scott 
 
@@ -54,7 +54,7 @@ Raheem believes the website would be ideal for new students who have never visti
 - Needs and goals: George believes this website could be the answer to his needs as long as it includes relevant discount codes to different places in the city and a detailed breakdown of the different fashion genres commonly seen in the city. He expects a clean website, that is user friendly and is branded to give a clear impression that this website in Manchester based. He wants it to be patriotic to the city and taliored for students like him.
 
 
-## Profiles 4
+## Profiles 3
 
 - Name: Becca Grant  
 
@@ -70,7 +70,7 @@ Raheem believes the website would be ideal for new students who have never visti
 
 - Needs and goals: Becca needs the guide to MMU fashion to help get involved with other students at the university and feel more included in events that may take place 
 
-## Profiles 5
+## Profiles 4
 
 - Name: Chloe Beehart 
 
@@ -86,7 +86,7 @@ Raheem believes the website would be ideal for new students who have never visti
 
 - Needs and goals: She likes to set the trends and wants to be up to date with all of the latest looks. The MMU guide to fashion would be a place for her to gather ideas and stay up to date with weekly style changes. 
 
-## Profiles 6
+## Profile 5
 
 - Name: Dr Ihsan Faraj 
 
@@ -103,7 +103,7 @@ Raheem believes the website would be ideal for new students who have never visti
 - Needs and goals: The MMU guide to students would help Ihsan to help students who feel self- concious, and promote individuality. The guide would help these students to express themselves and could be supported by lecturers. 
 
 
-## Profiles - profile 7
+## Profile 6
 
 
 - Name: Jack McConnell
@@ -119,7 +119,7 @@ Raheem believes the website would be ideal for new students who have never visti
 - Needs and Goals: Ability to control Work(University)/ Football/ Life balance
 
 
-## Profiles - Profile 8
+## Profile 7
 
 - Name: Laura Brown
 
@@ -136,7 +136,7 @@ Raheem believes the website would be ideal for new students who have never visti
 * Keep up to date
 * Cookie Management (Consent etc.)
 
-## Profiles - Profile 9
+## Profile 8
 
 - Name: Jack Trees
 
@@ -153,7 +153,7 @@ Raheem believes the website would be ideal for new students who have never visti
 * Where the Cheapest place is to but the item
 * Webform for a newsletter
 
-## Profiles - Profile 10
+## Profile 9
 
 - Name:Beryl Burns
 
@@ -168,7 +168,7 @@ Raheem believes the website would be ideal for new students who have never visti
 -
 ---
 
-## Profiles - Profile 11
+## Profile 10
 
 - Name: Sam Harding
 
