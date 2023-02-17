@@ -1,10 +1,8 @@
 # User Research
 
 ## Summary
-
-**Word count** provide a summary (300 word maximum) of your findings.
-
----
+We interviewed a wide and diverse range of individuals to gather a realistic understanding of who we are aiming our website at, and how to make it as inclusive as possible. These individuals were aged between 20 and 50 of all genders, and included full- time students, part- time students and lecturers. This allowed us to gather a realistic view of the type of audience our guide should be aimed at. Many of them have different hobbies and interests from holidays and spa days to Parties and self- image. Contrastingly, many of them have different dislikes from raves and rugby to mi- represented fashion. From this representation of individuals at MMU it is clear that there are differing opinions on fashion throughout. For some, self- image is very important and fashion is a big part of that, whilst for others, fashion could be seen as practical to fit in with day to day activities such as commuting and sports. Furthermore, it is important to note that some of the individuals interviewed live in Manchester full- time, whilst others commute to the university regularly. This comparison between city- life and potentially rural or town- life could have a big impact on the way an individual may dress. This research has allowed us to gather information about all the different kinds of individuals at MMU and reflects all of the different practicalities and uses for fashion. Our website will aim to be inclusive of all of these individuals, and will have different web pages to allow for diverse ranges of clothes and advice on fashion. We will ensure to have an FAQ page and latest news page to ensure that our personal opinions do not overshadow the latest trends and to ensure that a variety of advice is given to promote an inclusive guide. 
+**---
 ## Profile 1
 
 - Name: Raheem Sarwar (Lecturer at Manchester Metroploitan Uni) 
