@@ -35,7 +35,6 @@ The social scene
 
 Raheem believes the website would be ideal for new students who have never vistited the city. It breaks the inital barriers and gives them an insight into what is current and trendy within the vibrant city. It reduces any nerves felt by students who would like to make a good first impression amoungst their peers and gives them an insight into the coolest places to shop and visit. 
 
----
 
 ## Profile 2
 
@@ -165,8 +164,7 @@ Raheem believes the website would be ideal for new students who have never visti
 
 - Dislikes: Clubbing, alcohol, late nights 
 
--
----
+
 
 ## Profile 10
 
